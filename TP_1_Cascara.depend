@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1504587480 source:c:\users\aygron\desktop\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1504585224 c:\users\aygron\desktop\tp_1_cascara\tp_1_cascara\funciones.h
+
+1504587045 c:\users\aygron\desktop\tp_1_cascara\tp_1_cascara\funciones.c
+	"funciones.h"
+
